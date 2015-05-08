@@ -1,0 +1,15 @@
+{
+  "name": "gradation-red-node-js",
+  "version": "0.0.1",
+  "description": "gradationred",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^0.4.4",
+    "p5.gibber.js": "^0.2.3"
+  }
+}
